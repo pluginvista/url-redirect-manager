@@ -73,3 +73,5 @@ This plugin is licensed under the **GNU General Public License v2 or later**.
 
 Developed with ❤️ for the WordPress community.  
 Free to use, modify, and distribute.
+
+Made by Pluginvista Team❤️
